@@ -1,0 +1,1 @@
+export { updateReactDeclaration } from "./react";
